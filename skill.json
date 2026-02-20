@@ -1,0 +1,1 @@
+{"name":"calendar","version":"1.0.0","description":"Manage calendar events, reminders, and scheduling","author":"kombalarasoftware","category":"productivity","tools":["create_event","list_events","update_event","delete_event","check_availability"],"dependencies":[],"min_nanobot_version":"0.1.0"}
